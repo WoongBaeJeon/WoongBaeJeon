@@ -27,7 +27,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/WoongBaeJeon/WoongBaeJeon/output/github-snake-dark.svg?palette=github-dark
+![Snake animation](https://raw.githubusercontent.com/WoongBaeJeon/WoongBaeJeon/output/github-snake-dark.svg?palette=github-dark)
 
 </div>
 
