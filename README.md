@@ -1,10 +1,6 @@
-# 안녕하세요! 👋
-
-사용자들에게 편리한 서비스를 제공하는 개발자입니다.
-
 <div align="center">
 
-# 안녕하세요! 저는 홍길동입니다 👋
+# 안녕하세요! 사용자들에게 편리한 서비스를 제공하는 개발자 전웅배입니다. 👋
 
 ### 🚀 Frontend Developer
 
@@ -31,7 +27,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/WoongBaeJeon/WoongBaeJeon/output/neon-snake.gif?color_snake=#39ff14&color_dots=#001a00,#003300,#004d00,#006600,#008000)
+![Snake animation](https://raw.githubusercontent.com/WoongBaeJeon/WoongBaeJeon/output/github-snake-dark.svg?palette=github-dark
 
 </div>
 
