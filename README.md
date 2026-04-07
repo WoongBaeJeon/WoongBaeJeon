@@ -12,9 +12,39 @@ ERP 개발 경험을 바탕으로
 
 ---
 
+## 💪 내가 잘하는 것 3가지
+
+### 1. **복잡한 로직을 구조적으로 설계하는 능력**
+- ERP 개발 경험을 통해 **비즈니스 로직과 데이터 흐름 이해**
+- API 연동 및 데이터 처리 과정에서 **안정성과 일관성 유지**
+
+### 2. **유지보수 가능한 코드 구조 설계**
+- 컴포넌트 분리 및 모듈화를 통한 **재사용성 향상**
+- 상태관리(Zustand, TanStack Query) 기반의 **예측 가능한 구조 설계**
+
+### 3. **사용자 중심 UI 구현**
+- 단순 구현이 아닌 **사용자 경험을 고려한 인터페이스 설계**
+- 실제 서비스 흐름을 고려한 UI/UX 개선 경험
+
+---
+
+## 🎯 키워드
+
+- **인증 처리 경험** (AccessToken / RefreshToken)
+- **API 통신 구조 설계** (Axios 기반 fetcher 패턴)
+- **상태 관리** (Zustand, TanStack Query)
+- **컴포넌트 아키텍처 설계**
+- **ERP 기반 데이터 처리 경험**
+- **비즈니스 로직 이해 능력**
+- **유지보수성 & 확장성 고려한 개발**
+- **React / Next.js 기반 SPA 개발 경험**
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
+
+### 🖥️ Frontend
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -29,30 +59,13 @@ ERP 개발 경험을 바탕으로
 
 <br/>
 
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Integration-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/ERP_Background-555555?style=for-the-badge&logo=microsoft&logoColor=white" />
+### 🏢 ERP / Backend Experience
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WoongBaeJeon&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WoongBaeJeon&layout=compact&theme=tokyonight" height="150" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/WoongBaeJeon/WoongBaeJeon/output/github-snake.svg)
+<img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/X++-000000?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 
 </div>
 
@@ -67,3 +80,15 @@ ERP 개발 경험을 바탕으로
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeonwb622@gmail.com)
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/WoongBaeJeon/WoongBaeJeon/output/github-snake.svg)
+
+</div>
+
+---
