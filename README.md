@@ -12,34 +12,6 @@ ERP 개발 경험을 바탕으로
 
 ---
 
-## 💪 내가 잘하는 것 3가지
-
-### 1. **복잡한 로직을 구조적으로 설계하는 능력**
-- ERP 개발 경험을 통해 **비즈니스 로직과 데이터 흐름 이해**
-- API 연동 및 데이터 처리 과정에서 **안정성과 일관성 유지**
-
-### 2. **유지보수 가능한 코드 구조 설계**
-- 컴포넌트 분리 및 모듈화를 통한 **재사용성 향상**
-- 상태관리(Zustand, TanStack Query) 기반의 **예측 가능한 구조 설계**
-
-### 3. **사용자 중심 UI 구현**
-- 단순 구현이 아닌 **사용자 경험을 고려한 인터페이스 설계**
-- 실제 서비스 흐름을 고려한 UI/UX 개선 경험
-
----
-
-## 🎯 키워드
-
-- **인증 처리 경험** (AccessToken / RefreshToken)
-- **API 통신 구조 설계** (Axios 기반 fetcher 패턴)
-- **상태 관리** (Zustand, TanStack Query)
-- **컴포넌트 아키텍처 설계**
-- **ERP 기반 데이터 처리 경험**
-- **비즈니스 로직 이해 능력**
-- **유지보수성 & 확장성 고려한 개발**
-- **React / Next.js 기반 SPA 개발 경험**
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -71,13 +43,50 @@ ERP 개발 경험을 바탕으로
 
 ---
 
+## 💪 강점
+
+### 1. **복잡한 로직을 구조적으로 설계하는 능력**
+- ERP 개발 경험을 통해 **비즈니스 로직과 데이터 흐름 이해**
+- API 연동 및 데이터 처리 과정에서 **안정성과 일관성 유지**
+
+### 2. **유지보수 가능한 코드 구조 설계**
+- 컴포넌트 분리 및 모듈화를 통한 **재사용성 향상**
+- 상태관리(Zustand, TanStack Query) 기반의 **예측 가능한 구조 설계**
+
+### 3. **사용자 중심 UI 구현**
+- 단순 구현이 아닌 **사용자 경험을 고려한 인터페이스 설계**
+- 실제 서비스 흐름을 고려한 UI/UX 개선 경험
+
+---
+
+## 🎯 키워드
+
+- **인증 처리 경험** (AccessToken / RefreshToken)
+- **API 통신 구조 설계** (Axios 기반 fetcher 패턴)
+- **상태 관리** (Zustand, TanStack Query)
+- **컴포넌트 아키텍처 설계**
+- **ERP 기반 데이터 처리 경험**
+- **비즈니스 로직 이해 능력**
+- **유지보수성 & 확장성 고려한 개발**
+- **React / Next.js 기반 SPA 개발 경험**
+- 
+---
+
 ## 📫 Contact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WoongBaeJeon)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@job622/posts)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeonwb622@gmail.com)
+<a href="https://github.com/WoongBaeJeon">
+  <img height="28" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://velog.io/@job622/posts">
+  <img height="28" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:jeonwb622@gmail.com">
+  <img height="28" src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
