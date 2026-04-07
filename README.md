@@ -8,8 +8,9 @@ ERP 개발 경험을 바탕으로
 **복잡한 로직을 사용자 친화적인 UI로 풀어내는 것**에 집중하고 있습니다.
 
 [![GitHub followers](https://img.shields.io/github/followers/WoongBaeJeon?style=social)](https://github.com/WoongBaeJeon)
+
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@job622/posts)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:job622@naver.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeonwb622@gmail.com)
 
 </div>
 
