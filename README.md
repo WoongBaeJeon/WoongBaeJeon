@@ -1,10 +1,15 @@
 <div align="center">
 
-# 안녕하세요! 사용자들에게 편리한 서비스를 제공하는 개발자 전웅배입니다. 👋
+# 👋 Frontend Developer 전웅배
 
-### 🚀 Frontend Developer
+### **"사용자 경험을 개선하는 것을 즐기는 개발자"**
+
+ERP 개발 경험을 바탕으로  
+**복잡한 로직을 사용자 친화적인 UI로 풀어내는 것**에 집중하고 있습니다.
 
 [![GitHub followers](https://img.shields.io/github/followers/WoongBaeJeon?style=social)](https://github.com/WoongBaeJeon)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@job622/posts)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:job622@naver.com)
 
 </div>
 
