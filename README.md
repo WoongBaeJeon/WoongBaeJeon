@@ -1,16 +1,16 @@
 <div align="center">
 
-# 👋 Frontend Developer 전웅배
+# 👋 Developer 전웅배
 
 ### **"사용자 경험을 개선하는 것을 즐기는 개발자"**
-
+<!--
 ERP 개발 경험을 바탕으로  
 **복잡한 로직을 사용자 친화적인 UI로 풀어내는 것**에 집중하고 있습니다.
 
 [![GitHub followers](https://img.shields.io/github/followers/WoongBaeJeon?style=social)](https://github.com/WoongBaeJeon)
 </div>
+-->
 
----
 <!--
 ## 💻 Tech Stack
 
