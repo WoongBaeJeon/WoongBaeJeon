@@ -11,7 +11,7 @@ ERP 개발 경험을 바탕으로
 </div>
 
 ---
-
+<!--
 ## 💻 Tech Stack
 
 <div align="center">
@@ -40,7 +40,7 @@ ERP 개발 경험을 바탕으로
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 
 </div>
-
+-->
 ---
 
 ## 💪 강점
@@ -58,7 +58,7 @@ ERP 개발 경험을 바탕으로
 - 실제 서비스 흐름을 고려한 UI/UX 개선 경험
 
 ---
-
+<!--
 ## 🎯 키워드
 
 - **인증 처리 경험** (AccessToken / RefreshToken)
@@ -69,7 +69,7 @@ ERP 개발 경험을 바탕으로
 - **비즈니스 로직 이해 능력**
 - **유지보수성 & 확장성 고려한 개발**
 - **React / Next.js 기반 SPA 개발 경험**
-
+-->
 ---
 
 ## 📫 Contact
